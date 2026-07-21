@@ -1,0 +1,9 @@
+WiFi Password Security Audit Report
+
+Profile Name : Home_WiFi
+Password Strength : Strong
+
+Profile Name : Office_WiFi
+Password Strength : Medium
+
+Audit Completed Successfully.
